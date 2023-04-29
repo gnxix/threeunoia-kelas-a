@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string-array name="data_name">
+        <item>Asterix and Obelix</item>
+        <item>Buya Hamka</item>
+        <item>Guardian of The Galaxy</item>
+        <item>Khanzab</item>
+        <item>Mario Bros</item>
+        <item>Ride On</item>
+        <item>Sewu Dino</item>
+        <item>Guy Ritchies The Covenant</item>
+        <item>The Pope`s Exorcist</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Berkisah tentang pelarian yang dilakukan oleh Putri Fu Yi (Julie Chen) dari sosok pangeran jahat. Ia meminta bantuan Asterix (Guillaume Canet) dan Obelix (Gilles Lellouche) untuk membebaskan ibunya yang dipenjara setelah kudeta.</item>
+        <item>Periode dimana Hamka menjadi pengurus Muhammadiyah di Makassar dan berhasil memberikan kemajuan yang pesat pada organisasi tersebut. Hamka juga mulai menulis sastra koran dan cerita romannya disukai para pembaca. Hamka dan keluarganya pindah ke Medan, karena Hamka diangkat menjadi pemimpin redaksi majalah Pedoman Masyarakat. Posisi ini membuat Hamka mulai berbenturan dengan pihak Jepang hingga harus ditutup karena dianggap berbahaya. Kehidupan keluarga Hamka pun terguncang ketika salah satu anak mereka meninggal karena sakit. Usaha-usaha Hamka untuk melakukan pendekatan pada pihak Jepang malah dianggap sebagai penjilat dan dimusuhi, sehingga Hamka diminta untuk mundur dari jabatannya sebagai pengurus Muhammadiyah.</item>
+        <item>Film ketiga akan melanjutkan kisah petualangan Peter Quill/Star Lord (Chris Pratt) dan teman-temannya sebagai penjaga galaksi. Masih berduka karena kehilangan Gamora (Zoe Saldana), Peter mengumpulkan timnya untuk kembali melindungi alam semesta. Misi kali ini tidaklah mudah, jika tidak berhasil, maka akan menjadi akhir bagi para Guardians.</item>
+        <item>Dengan mata kepala sendiri, Rahayu menyaksikan bapaknya dipenggal, menjadi salah satu korban pembantaian dukun santet pada tahun 1998 oleh para ninja. Bersama Ibu tiri dan adiknya, Rahayu meninggalkan Banyuwangi dan kembali ke rumah masa kecilnya di Jetis. Namun, keluarga Rahayu dikucilkan karena dianggap keluarga dukun santet. Mencoba untuk tetap positif, Rahayu berusaha rajin sholat untuk meringankan beban hatinya. Semakin dikucilkan, Rahayu semakin sulit konsentrasi saat sholat. Kekhusyukan Rahayu sering diganggu hingga lupa rakaat dan bacaan sholat. Sosok astral yang menganggu itu bernama: Khanzab. Bisakah Rahayu tetap mempertahankan keimanannya?</item>
+        <item>Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.</item>
+        <item>Kisah tentang seorang pemeran pengganti dan kudanya yang menjadi sensasi media sosial saat pertarungan nyata mereka dengan penagih hutang menjadi viral.</item>
+        <item>Ditengah kesulitan ekonomi, Sri diterima bekerja untuk keluarga Atmojo dengan bayaran yang tinggi, karena keunikan yang ia miliki, yaitu lahir pada hari Jumat Kliwon. Bersama Erna dan Dini, mereka dibawa ke sebuah gubuk tersembunyi di tengah hutan. Di gubuk tersebut, Sri, Erna, dan Dini bertugas untuk memandikan Dela Atmojo, cucu dari Mbah Karsa Atmojo yang tidak sadarkan diri karena kutukan santet Sewu Dino, salah satu santet yang paling mengerikan. Mereka tidak bisa lari dari gubuk tersebut karena terikat perjanjian mistis dengan Mbah Karsa Atmojo, dan mereka harus selesaikan ritual sampai hari ke 1000. Jika melanggar, kematian menanti mereka.</item>
+        <item>Kisah tentang upaya seorang penerjemah dari Afghanistan, Ahmed (Dar Salim) untuk menyelamatkan nyawa seorang Sersan Angkatan Darat AS John Kinley (Jake Gyllenhaal). Saat ada janji yang tidak ditepati, John yang berhutang budi kepada Ahmed, kembali ke zona perang untuk menyelamatkan Ahmed dan keluarganya dari ancaman Taliban.</item>
+        <item>Terinspirasi oleh file sebenarnya dari Pastor Gabriele Amorth, Kepala Exorcist Vatikan, The Pope`s Exorcist mengikuti Amorth saat dia menyelidiki kepemilikan menakutkan seorang anak laki-laki dan akhirnya mengungkap konspirasi berusia berabad-abad yang berusaha disembunyikan Vatikan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/asterix_and_obelix</item>
+        <item>@drawable/buya_hamka</item>
+        <item>@drawable/guardian_of_the_galaxy</item>
+        <item>@drawable/khanzab</item>
+        <item>@drawable/mario_bros</item>
+        <item>@drawable/ride_on</item>
+        <item>@drawable/sewu_dino</item>
+        <item>@drawable/the_covenant</item>
+        <item>@drawable/the_pope_exorcist</item>
+    </integer-array>
+</resources>
